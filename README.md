@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python](https://img.shields.io/badge/python-3.6+-blue.svg)](https://www.python.org/downloads/)
-[![Tests](https://github.com/yourusername/search_acm_certificates/actions/workflows/tests.yml/badge.svg)](https://github.com/yourusername/search_acm_certificates/actions/workflows/tests.yml)
+[![Tests](https://github.com/avanrossum/search_acm_certificates/actions/workflows/tests.yml/badge.svg)](https://github.com/avanrossum/search_acm_certificates/actions/workflows/tests.yml)
 
 A Python script to search AWS Certificate Manager (ACM) for certificates containing specific domain strings. This tool helps you quickly find certificates that match your domain criteria, whether you're looking for exact matches or partial domain matches.
 
